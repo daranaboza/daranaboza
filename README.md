@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @daranaboza
-- 👀 I’m interested in start to working
-- 🌱 I’m currently learning laravel
+- 👀 I’m JS/ReactJS developer & Laravel developer too
 
 
 <!---
